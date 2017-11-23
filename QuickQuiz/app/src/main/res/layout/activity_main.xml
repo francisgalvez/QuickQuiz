@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:tools="http://schemas.android.com/tools"
+    style="@style/ScrollViewStyle"
+    tools:context="com.example.android.quickquiz.MainActivity">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        style="@style/match_parent"
+        android:layout_marginTop="10dp"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="300dp"
+            android:layout_height="200dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="10dp" />
+
+        <TextView
+            style="@style/StartText"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="8dp"
+            android:fontFamily="sans-serif-condensed"
+            android:text="@string/welcome"
+            android:textColor="@color/colorPrimary"
+            android:textSize="36sp" />
+
+        <TextView
+            style="@style/StartText"
+            android:layout_width="309dp"
+            android:layout_margin="8dp"
+            android:text="@string/prove"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="20sp" />
+
+        <EditText
+            android:id="@+id/name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:hint="@string/name"
+            android:inputType="text" />
+
+        <TextView
+            style="@style/StartText"
+            android:layout_marginBottom="8dp"
+            android:layout_marginTop="15dp"
+            android:text="@string/click"
+            android:textColor="@color/grey"
+            android:textSize="17sp" />
+
+        <Button
+            style="@style/StartText"
+            android:layout_marginBottom="10dp"
+            android:backgroundTint="@color/colorAccent"
+            android:onClick="startQuiz"
+            android:text="@string/start"
+            android:textColor="@color/white" />
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">QuickQuiz</string>
+    <string name="welcome">Welcome to QuickQuiz!</string>
+    <string name="prove">Do you want to prove your general knowledgement? This is your quiz!</string>
+    <string name="name">Enter your name here</string>
+    <string name="answer">Make the right choice and get 10 points for each right answer. </string>
+    <string name="click">Click on the button below and show your skills!</string>
+    <string name="start">Start quiz</string>
+
+    <string name="question_1">Who\'s this actress?</string>
+    <string name="answer1_a">a.	Jennifer Anniston</string>
+    <string name="answer1_b">b.	Emma Watson</string>
+    <string name="answer1_c">c.	Penélope Cruz</string>
+    <string name="answer1_d">d.	Tatiana Maslany</string>
+
+    <string name="question_2">When did Colon discover America?</string>
+    <string name="answer2_a">a.	1496</string>
+    <string name="answer2_b">b.	1488</string>
+    <string name="answer2_c">c.	1492</string>
+    <string name="answer2_d">d.	1502</string>
+
+    <string name="question_3">Which of these tennis players has won Roland Garros at 9 times?</string>
+    <string name="answer3_a">a.	Pete Sampras</string>
+    <string name="answer3_b">b.	Roger Federer</string>
+    <string name="answer3_c">c.	Rafael Nadal</string>
+    <string name="answer3_d">d.	John McEnroe</string>
+
+    <string name="question_4">Point out Adele\'s songs</string>
+    <string name="answer4_a">a.	Set Fire to the Rain</string>
+    <string name="answer4_b">b.	Hello</string>
+    <string name="answer4_c">c.	When You Believe</string>
+    <string name="answer4_d">d.	I’m Yours</string>
+
+    <string name="question_5">Which of these actors has an Oscar?</string>
+    <string name="answer5_a">a.	Leonardo Di Caprio</string>
+    <string name="answer5_b">b.	Ryan Gosling</string>
+    <string name="answer5_c">c.	Hugh Jackman</string>
+    <string name="answer5_d">d.	Javier Bardem</string>
+
+    <string name="question_6">What team (or teams) has won more than 5 Champions League?</string>
+    <string name="answer6_a">a.	Real Madrid C.F.</string>
+    <string name="answer6_b">b.	A.C. Milan</string>
+    <string name="answer6_c">c.	F.C. Barcelona</string>
+    <string name="answer6_d">d.	Juventus F.C.</string>
+
+    <string name="question_7">Who was the first Roman emperor?</string>
+    <string name="answer7_a">a.	Nerón</string>
+    <string name="answer7_b">b.	Julio César</string>
+    <string name="answer7_c">c.	Cesar Augusto</string>
+    <string name="answer7_d">d.	Calígula</string>
+
+    <string name="question_8">Select those films who have been directed by Quentin Tarantino</string>
+    <string name="answer8_a">a.	Pulp Fiction</string>
+    <string name="answer8_b">b.	La La Land</string>
+    <string name="answer8_c">c.	Gladiator</string>
+    <string name="answer8_d">d.	Django Unchained</string>
+
+    <string name="question_9">With which of these teams did Michael Jordan win 6 NBA rings?</string>
+    <string name="answer9_a">a.	Angeles Lakers</string>
+    <string name="answer9_b">b.	Toronto Raptors</string>
+    <string name="answer9_c">c.	76’ers</string>
+    <string name="answer9_d">d.	Chicago Bulls</string>
+
+    <string name="question_10">What was the name of the first President of the USA?</string>
+    <string name="answer10_a">a.	Thomas Jefferson</string>
+    <string name="answer10_b">b.	George Washington</string>
+    <string name="answer10_c">c.	John Adams</string>
+    <string name="answer10_d">d.	Abraham Lincoln</string>
+
+    <string name="check">Check answers</string>
+</resources>
